@@ -1,0 +1,21 @@
+# Compiled binaries
+assembler
+assembler.exe
+*.o
+
+# Assembler output files
+*.s
+*.t
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.txt
